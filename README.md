@@ -1,5 +1,4 @@
-# AdvertisementBackEnd
-# Project: AdvertisementBackEnd
+# Projekt: AdvertisementBackEnd
 
 ## Wymagania
 
