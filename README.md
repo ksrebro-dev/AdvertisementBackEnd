@@ -18,8 +18,9 @@ Aby uruchomić projekt, wykonaj poniższe kroki:
 3. **Otwórz terminal w folderze z projektem**
     Wejdź do folderu, do którego sklonowałeś repozytorium. W terminalu wpisz komendę
    ```bash
-  npm i
-  npm start
+  npm i```
+  ```bash
+  npm start```
 Po wykonaniu powyższych kroków, projekt powinien uruchomić się lokalnie na porcie 5000.
 ## Technologie 
 - Node.js
